@@ -1,0 +1,2 @@
+GET https://hq.sinajs.cn?format=text&list=s_sh000001,s_sh601398,s_sz000001,s_sh603116,s_sh600990 HTTP/1.1
+

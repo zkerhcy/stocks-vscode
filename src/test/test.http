@@ -1,0 +1,1 @@
+GET http://quote.yahoo.com/d/quotes.csv?s=000969.SZ&f=slc1wop HTTP/1.1
